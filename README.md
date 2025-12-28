@@ -66,7 +66,7 @@
     <tr>
       <th width="30%">💪 Expertise Area</th>
       <th width="50%">Key Technologies & Skills</th>
-      <th width="20%">Level</th>
+      
     </tr>
   </thead>
   <tbody>
