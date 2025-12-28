@@ -34,7 +34,7 @@
   <i>(In the name of Allah, the Most Gracious, the Most Merciful)</i>
 </div>
 
-> By the grace of Allah, I combine my passion for **Masterful Programming** and the **Blessed Sciences of Agriculture**. 
+> By the grace of Allah, I combine my passion for **Masterful Programming** and the **Blessed Sciences of Agriculture**.
 >
 > As a **Front-End Developer**, Allah has gifted me the ability to build interactive web applications using React and Next.js. As a specialist in **Plant Protection**, I possess deep understanding of agricultural challenges and farmer needs.
 >
@@ -73,37 +73,34 @@
     <tr>
       <td align="center"><b>Languages & Frameworks</b></td>
       <td>JavaScript (ES6+), TypeScript, React.js, Next.js</td>
-      <td align="center">⭐⭐⭐⭐⭐</td>
+      
     </tr>
     <tr>
       <td align="center"><b>Styling & Design</b></td>
       <td>HTML5, CSS3, Tailwind CSS, Responsive Design, Mobile-First</td>
-      <td align="center">⭐⭐⭐⭐⭐</td>
+      
     </tr>
     <tr>
       <td align="center"><b>State Management</b></td>
       <td>Redux, Zustand, React Query, Context API, RTK</td>
-      <td align="center">⭐⭐⭐⭐</td>
     </tr>
     <tr>
       <td align="center"><b>Dev Tools & Workflow</b></td>
       <td>Git/GitHub, Node.js, Vite, NPM/Yarn, Webpack, ESLint, Prettier</td>
-      <td align="center">⭐⭐⭐⭐⭐</td>
+      
     </tr>
     <tr>
       <td align="center"><b>API & Backend</b></td>
       <td>RESTful APIs, Supabase, Firebase, Postman, HTTP</td>
-      <td align="center">⭐⭐⭐</td>
+     
     </tr>
     <tr>
       <td align="center"><b>Performance</b></td>
       <td>Code Splitting, Lazy Loading, Image Optimization, Lighthouse</td>
-      <td align="center">⭐⭐⭐⭐</td>
     </tr>
     <tr>
       <td align="center"><b>🌱 Plant Protection</b></td>
       <td>IPM, Pest Management, Pesticide Safety, Disease Identification</td>
-      <td align="center">⭐⭐⭐⭐</td>
     </tr>
   </tbody>
 </table>
@@ -295,16 +292,16 @@
   <h3>🚀 Skills Under Active Development</h3>
 </div>
 
-| 📖 Area | 🎯 Focus |
-|--------|---------|
-| 🔷 **Advanced React** | Design patterns, code splitting, performance optimization |
-| ⬜ **Next.js Mastery** | Server-side rendering, static generation, API routes |
-| 🔶 **TypeScript** | Type safety, advanced types, scalable applications |
-| 🟩 **PWAs** | Service workers, offline capabilities, app-like experiences |
-| 📊 **Data Visualization** | D3.js for agricultural data insights |
-| 🔒 **Web Security** | Security essentials, threat prevention, best practices |
-| ⚡ **Performance** | Lighthouse optimization, Core Web Vitals, monitoring |
-| 🧪 **Testing** | Vitest, React Testing Library, TDD |
+| 📖 Area                   | 🎯 Focus                                                    |
+| ------------------------- | ----------------------------------------------------------- |
+| 🔷 **Advanced React**     | Design patterns, code splitting, performance optimization   |
+| ⬜ **Next.js Mastery**    | Server-side rendering, static generation, API routes        |
+| 🔶 **TypeScript**         | Type safety, advanced types, scalable applications          |
+| 🟩 **PWAs**               | Service workers, offline capabilities, app-like experiences |
+| 📊 **Data Visualization** | D3.js for agricultural data insights                        |
+| 🔒 **Web Security**       | Security essentials, threat prevention, best practices      |
+| ⚡ **Performance**        | Lighthouse optimization, Core Web Vitals, monitoring        |
+| 🧪 **Testing**            | Vitest, React Testing Library, TDD                          |
 
 ---
 
@@ -351,12 +348,14 @@
 </div>
 
 ### Short-Term Goals (6-12 months)
+
 - ✅ Secure role with AgriTech startup or organization
 - ✅ Contribute to 2-3 significant agricultural technology projects
 - ✅ Expand full-stack development expertise
 - ✅ Build thought leadership in AgriTech space
 
 ### Long-Term Vision (2-5 years)
+
 - 🎯 Recognized AgriTech expert combining technology + agriculture
 - 🎯 Lead development of innovative agricultural solutions
 - 🎯 Mentor junior developers in purpose-driven technology
@@ -374,6 +373,7 @@
 </div>
 
 Whether you're:
+
 - 🌾 **Building AgriTech** and need a developer who understands both code and crops
 - 📱 **Scaling an agriculture platform** and looking for quality front-end development
 - 🔬 **Researching agricultural tech trends** and want insider perspective
@@ -403,6 +403,7 @@ Whether you're:
 <br/>
 
 ### 📍 Location
+
 **Al-Fayoum, Egypt** 🇪🇬
 
 ---
